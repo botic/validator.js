@@ -6,6 +6,11 @@
       "validator", "validation", "validate", "sanitization",
       "sanitize", "sanitisation", "sanitise", "assert"
    ],
+   "author": {
+         "name":  "Philipp Naderer",
+         "web":   "http://github.com/botic",
+         "email": "philipp.naderer@gmail.com"
+   },
    "maintainers": [
       {
          "name":  "Philipp Naderer",
@@ -15,13 +20,13 @@
    ],
    "contributors": [
       {
-         "name": "Chris O'Hara",
-         "email": "cohara87@gmail.com"
-      },
-      {
          "name":  "Philipp Naderer",
          "web":   "http://github.com/botic",
          "email": "philipp.naderer@gmail.com"
+      },
+      {
+         "name": "Chris O'Hara",
+         "email": "cohara87@gmail.com"
       }
    ],
    "dependencies": { },
