@@ -1,10 +1,9 @@
 {
-   "name": "validatorjs",
+   "name": "validator",
    "version": "3.5.0",
-   "description": "String validation and sanitization",
+   "description": "String validation and sanitization.",
    "keywords": [
-      "validator", "validation", "validate", "sanitization",
-      "sanitize", "sanitisation", "sanitise", "assert"
+      "validator", "validation", "validate", "sanitization", "sanitize"
    ],
    "author": {
          "name":  "Philipp Naderer",
@@ -26,7 +25,8 @@
       },
       {
          "name": "Chris O'Hara",
-         "email": "cohara87@gmail.com"
+         "email": "cohara87@gmail.com",
+         "web": "https://www.npmjs.org/~cohara87"
       }
    ],
    "dependencies": { },
