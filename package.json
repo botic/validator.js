@@ -1,5 +1,5 @@
 {
-   "name": "validator",
+   "name": "nd-validator",
    "version": "3.5.0",
    "description": "String validation and sanitization.",
    "keywords": [
